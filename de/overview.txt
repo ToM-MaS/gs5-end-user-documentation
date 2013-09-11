@@ -1,0 +1,35 @@
+// http://powerman.name/doc/asciidoc-compact
+
+== Das Snom 821
+// Bild aus UM_snom820_v104_de.pdf Seite 11
+image:images/snom821.jpg[]
+
+A. Funktionstasten
+B. Funktionstasten
+
+1. Display
+2. Anrufanzeige
+3. Leitungstasten 1-4
+4-7. Softkey
+8. Taste Bestätigen
+9. Taste zur Navigation
+10. Taste Beenden
+11. Taste für Anrufbeantworter
+12. Tasten 0 bis 9, sowie * und #
+13. Taste "Bitte nicht stören" (DND = do not disturb)
+14. Taste Telefonbuch
+15. Taste Menü
+16. Taste Verbinden
+17. Taste Halten
+18. Taste Stumm
+19. Taste Lautstärke
+20. Taste Lautsprecher
+21. Taste Kopfhörer
+22. Mikrofon für Freisprechmodus
+23. Lautsprecher für Freisprechmodus
+24. Hörermikrofon
+25. Hörerlautsprecher
+
+// Screenshot Hauptmenü
+// Virtuelle Tasten
+

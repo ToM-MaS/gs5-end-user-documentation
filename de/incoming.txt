@@ -1,0 +1,16 @@
+== Eingehender Anruf
+* Anruf von Intern
+* Anruf von Extern
+* weitergeleiteteter Anruf von Intern
+
+=== Klingellautstärke lauter / leiser machen
+
+=== Anruf ablehnen
+
+=== Anruf während dem Klingeln umleiten
+
+=== Anruf annehmen
+* Hörer abnehmen 
+* image:images/8xx_key_speaker.png[] Freisprechen
+* image:images/8xx_key_ok.png[] Freisprechen oder Headset (je nach dem was vorher aktiviert war)
+

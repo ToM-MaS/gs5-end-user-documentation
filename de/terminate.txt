@@ -1,0 +1,8 @@
+== Ruf beenden
+Unabhängig davon ob Sie das Telefonat per Hörer, Freisprechen oder Headset geführt haben, können Sie durch drücken der Taste image:images/8xx_cancel.png[] das Gespräch beenden.
+
+Wenn Sie das Telefonat mit dem Hörer geführt haben, können Sie das Gespräch durch auflegen des Hörers beenden.
+
+Wenn Sie das Telefonat mit einem schnurlosem Headset geführt haben können Sie das Telefonat an Ihrem Headset oder Ihrer Basisstation beenden. (Dies setzt einen korrekt angeschlossenen Snom EHS-Adapter voraus.)
+
+Wenn Sie das Telefonat mit einem schnurgebundenem Headset geführt haben, beenden Sie das Gespräch durch drücken der Taste image:images/8xx_cancel.png[].

@@ -1,0 +1,33 @@
+== Während einem Telefonat
+
+=== Mikrofon stumm schalten
+// Stummschalten vs Hold
+
+=== Telefonat mitschneiden
+
+=== Verbinden
+Voraussetzung zum verbinden ist ein laufendes Gespräch. Ob Sie vom Gesprächspartner angerufen wurden oder ob der Gesprächspartner Sie angerufen hat ist unerheblich. Beim Verbinden wird zwischen zwei Arten unterschieden.
+* Verbinden mit Ankündigung
+* Verbinden ohne Ankündigung
+
+==== Verbinden mit Ankündigung
+Bei dem Verbinden mit Ankündigung wird der Gesprächspartner zunächst in einer Warteschleife gehalten. Während dessen können Sie den Kollegen zu dem Sie weiterverbinden zuerst anrufen und wenn dieser abgenommen hat z.B. den Namen und das Anliegen des Gesprächspartners erläutern, bevor Sie den Gesprächspartner verbinden.
+
+* Während dem Telefonat drücken Sie die Taste image:images/8xx_key_hold.png[] mit der Beschriftung "Hold".
+// Screenshot
+* Nun wählen Sie die Nummer des Kollegen mit dem Sie verbinden möchten
+** Nummer per Hand eingeben
+** L1 Taste gedrückt halten und Alphanummerische Taste drücken
+** Taste image:images/8xx_key_directory.png[] mit der Beschriftung "Directory" drücken, mit den Tasten image:images/8xx_key_up.png[] und image:images/8xx_key_down.png[] auswählen
+** Drücken Sie die Taste unter dem Bildschirm mit dem Zeichen image:images/snom820_button_???.png[]
+* Drücken Sie die Taste image:images/8xx_key_ok.png[] um den Gesprächspartner mit der eingegebenen bzw. ausgewählten Nummer zu verbinden.
+
+==== Verbinden ohne Ankündigung
+Bei dem Verbinden ohne Ankündigung wird der Gesprächspartner in einer Warteschleife gehalten und das Telefon des Kollegen klingelt bis:
+* der Kollege den Anruf entgegennimmt
+* der Anrufbeantworter Ihres Kollegen den Anruf entgegen nimmt (nur wenn der Anrufbeantworter Ihres Kollegen angeschaltet ist)
+* nach 2 Minuten die Leitung zum Gesprächspartner getrennt wird
+
+=== Es klopft an
+
+=== Konferenz

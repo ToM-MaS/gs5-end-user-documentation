@@ -1,0 +1,86 @@
+== Rufaufbau / Ausgehender Anruf
+
+=== Manuelle Wahl bei aufliegendem Hörer
+Geben Sie zuerst die Rufnummer ein. Für eine externe Rufnummer beginnen Sie mit einer 0.
+
+Beispiel "interner Anruf": 
+Um Ihre Kollegin Johanna Jung mit der Telefonnummer 124 anzurufen wählen Sie 124 und heben den Hörer ab.
+
+Beispiel "Anruf innerhalb Ihrer Ortsvorwahl": 
+Um Ihren Kunden Samuel Schmidt zu erreichen, welcher genau wie Ihr Unternehmen ebenfalls eine Rufnummer mit der Berliner Vorwahl 030 hat, wählen Sie 0 7654321 und heben den Hörer ab. (0 030 7654321 ist ebenfalls möglich.)
+
+Beispiel "Anruf in einen anderen Ort": 
+Um Ihren Lieferanten Friedrich Fischer in Hamburg zu erreichen wählen Sie 0 040 8765432 und heben den Hörer ab.
+
+Beispiel "Anruf in einem anderen Land": 
+Um in der Schweiz die Touristenauskunft von Zürich zu erreichen wählen Sie 0 0041 442154040 und heben den Hörer ab.
+
+=== Alternative Wahlmethoden
+Alternativ zur Eingabe der Rufnummer gibt es verschiedene Möglichkeiten eine Rufnummer anzurufen:
+* Wählen einer Nummer aus einer Anrufliste (Gewählte Rufnummern, Verpasste Anrufe, Angenommene Anrufe)
+* Wählen einer Nummer aus dem Telefonbuch
+* Wählen einer Nummer von den virtuellen Tasten
+
+==== Wählen einer Rufnummer aus einer Anrufliste
+Das Snom 821 speichert folgende Telefonnummern in einer eigenen Liste:
+* Alle Telefonnummern die Sie angerufen haben (Anruflisten - Dialed)
+* Alle Telefonnummern von Anrufen die Sie verpasst haben (Anruflisten - Missed)
+* Alle Telefonnummern von Anrufen die Sie angenommen haben (Anruflisten - Received)
+Aus jeder Liste können Sie einen Telefonnummer für einen Anruf verwenden.
+
+===== Anruf bei einer bereits gewählten Rufnummer (Wahlwiederholung)
+. Wahlwiederholung der zuletzt gewählte Rufnummer
+Um die zuletzt angerufene Rufnummer noch ein Mal anzurufen drücken Sie zuerst die Taste image:images/8xx_key_ok.png[] und heben Sie den den Hörer ab.
+
+. Anruf einer bereits gewählten Rufnummer
+Drücken Sie die Taste image:images/8xx_key_ok.png[]. Es werden Ihnen die letzten sechs gewählten Rufnummern, zusammen mit der Uhrzeit zu der die Rufnummer gewählt wurde, angezeigt. Mit den Tasten runter image:images/8xx_key_down.png[] und hoch image:images/8xx_key_up.png[] können Sie die Rufnummer auswählen die Sie anrufen möchten. Mit der Taste runter image:images/8xx_key_down.png[] können Sie über die letzten 6 Rufnummern hinaus auch ältere Rufnummern auswählen.
+
+// Screenshot "Anruflisten - Dialed"
+
+Um die ausgewählte Rufnummern anzurufen heben Sie den Hörer ab. Alternativ starten Sie das Gespräch durch Drücken der Lautsprecher-Taste image:images/8xx_key_speaker.png[] im Freisprech-Modus.
+
+NOTE: Bei internen Rufnummern und Rufnummern die im Telefonbuch gespeichert sind, wird der Name mit angezeigt. Externe Rufnummern die nicht im Telefonbuch gespeichert sind, werden ohne Namen angezeigt. 
+
+===== Rückruf eines verpassten Anrufs
+Verpasste Anrufe sind alle Anrufe die an Ihrem Telefon geklingelt haben, aber nicht angenommen wurden. Auch Anrufe die Sie während dem Klingeln durch drücken der Taste image:images/8xx_key_speaker.png[] abgelehnt haben, zählen zu den verpassten Anrufen. 
+//(Anrufe die Sie während dem Klingeln weitergeleitet haben zählen nicht als verpasster Anruf.)
+
+// Screenshot "Anruflisten - Missed"
+
+Zum Anzeigen der Liste mit den verpassten Anrufen drücken Sie die Taste nach rechts image:images/8xx_key_right.png[]. Es werden Ihnen die letzten sechs verpassten Anrufe angzeigt. Neben jedem verpassten Anruf steht die Uhrzeit zu der der Anrufer Sie versucht hat zu erreichen. Mit den Tasten runter image:images/8xx_key_down.png[] und hoch image:images/8xx_key_up.png[] können Sie die Rufnummer auswählen die Sie anrufen möchten. Mit der Taste runter image:images/8xx_key_down.png[] können Sie über die letzten 6 Rufnummern hinaus auch ältere Rufnummern auswählen.
+
+(Mit der Taste image:images/8xx_cancel.png[] können Sie abbrechn ohne einen Anruf zu tätigen und ins Hauptmenü zurückkehren.) 
+
+Um die ausgewählte Rufnummern anzurufen heben Sie den Hörer ab. Alternativ starten Sie das Gespräch durch Drücken der Lautsprecher-Taste image:images/8xx_key_speaker.png[] im Freisprech-Modus.
+
+===== Rückruf eines angenommenen Anrufs
+Zum Anzeigen der Liste mit den angenommenen Anrufen drücken Sie die Taste nach rechts image:images/8xx_key_right.png[]. Es werden Ihnen die letzten sechs angenommenen Anrufe angzeigt. Neben jedem angenommenen Anruf steht die Uhrzeit zu der Sie den Anruf angenommenen haben. Mit den Tasten runter image:images/8xx_key_down.png[] und hoch image:images/8xx_key_up.png[] können Sie die Rufnummer auswählen die Sie anrufen möchten. Mit der Taste runter image:images/8xx_key_down.png[] können Sie über die letzten 6 Rufnummern hinaus auch ältere Rufnummern auswählen.
+
+(Mit der Taste image:images/8xx_cancel.png[] können Sie abbrechen ohne einen Anruf zu tätigen und ins Hauptmenü zurückkehren.) 
+
+Um die ausgewählte Rufnummern anzurufen heben Sie den Hörer ab. Alternativ starten Sie das Gespräch durch Drücken der Lautsprecher-Taste image:images/8xx_key_speaker.png[] im Freisprech-Modus.
+
+// Screenshot "Anruflisten - Received"
+
+////
+==== Wählen einer in den "Virtuellen Tasten" gespeicherten Rufnummer
+Halten Sie die die Leitungstaste 1 gedrückt. (Dies ist die oberste von den vier unbeschrifteten Tasten die rechts vom Bildschirm angeordnet sind.) Auf dem Display erscheint die Überschrift "Virtuelle Tasten":
+// Screenshot "Virtuelle Tasten"
+Auf dem Bildschirm werden 12 Felder mit Namen bzw. Rufnummern angezeigt. In jedem Feld befindet sich oben rechts ein Zeichen (_Zahl_, _*_ oder _#_). Die Zeichen sind identisch angeordnet wie die Zeichen auf der Tastatur.
+Durch drücken des jeweiligen Zeichens auf der Tastatur wird die zugeordnete Rufnummer im Freisprech-Modus angerufen. Durch abheben des Hörers beenden Sie den Freisprech-Modus. 
+
+NOTE: Die Zuordnung von Rufnummern zu den virtuellen Tasten muss durch den Systemadministrator Ihrer Telefonanlage durchgeführt werden.
+////
+
+=== Wahl aus dem Telefonbuch
+Drücken Sie die Taste image:images/8xx_key_directory.png[] mit der Beschriftung "Directory". Wählen Sie mit den Tasten runter image:images/8xx_key_down.png[] und hoch image:images/8xx_key_up.png[] einen Namen mit Rufnummer aus.
+// Wie springen per Buchstabe?
+
+Um die ausgewählte Rufnummern anzurufen heben Sie den Hörer ab. Alternativ starten Sie das Gespräch durch Drücken der Lautsprecher-Taste image:images/8xx_key_speaker.png[] im Freisprech-Modus.
+
+==== Starten eines Anrufs
+Wenn die Rufnummer vollständig ist können Sie den Anruf auf verschiedene Arten starten:
+* Heben Sie den Hörer ab um das Gespräch über den Hörer zu beginnen.
+* Drücken Sie die Taste image:images/8xx_key_speaker.png[] mit der Beschriftung "Speaker" um das Gespräch im Freisprechmodus zu beginnen.
+* Wenn nach dem eingeben der Rufnummer die Taste image:images/8xx_key_speaker.png[] leuchtet und Sie dann die Taste image:images/8xx_key_ok.png[] drücken, wird das Gespräch im Freisprechmodus begonnen.
+* Wenn nach dem eingeben der Rufnummer die Taste image:images/8xx_key_headset.png[] leuchtet und Sie dann die Taste image:images/8xx_key_ok.png[] drücken, wird das Gespräch über das Headset begonnen. Voraussetzung ist dass Sie entweder ein Kabelheadset mit passender Steckerbelegung oder ein schnurloses Headset mit EHS-Adapter und korrekter Einstellung angeschlossen haben.

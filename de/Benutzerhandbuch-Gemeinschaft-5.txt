@@ -1,0 +1,12 @@
+Gemeinschaft 5 Benutzerhandbuch
+=============
+:subtitle: 
+:doctype: book
+:lang: de
+
+include::overview.txt[]
+include::outgoing.txt[]
+include::incoming.txt[]
+include::during.txt[]
+include::terminate.txt[]
+include::settings.txt[]
