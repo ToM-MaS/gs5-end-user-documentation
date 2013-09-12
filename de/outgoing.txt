@@ -41,7 +41,7 @@ Um die ausgewählte Rufnummern anzurufen heben Sie den Hörer ab. Alternativ sta
 
 NOTE: Bei internen Rufnummern und Rufnummern die im Telefonbuch gespeichert sind, wird der Name mit angezeigt. Externe Rufnummern die nicht im Telefonbuch gespeichert sind, werden ohne Namen angezeigt. 
 
-===== Rückruf eines verpassten Anrufs
+===== Rückruf eines verpassten Anrufs (Anrufe in Abwesenheit)
 Verpasste Anrufe sind alle Anrufe die an Ihrem Telefon geklingelt haben, aber nicht angenommen wurden. Auch Anrufe die Sie während dem Klingeln durch drücken der Taste image:images/8xx_key_speaker.png[] abgelehnt haben, zählen zu den verpassten Anrufen. 
 //(Anrufe die Sie während dem Klingeln weitergeleitet haben zählen nicht als verpasster Anruf.)
 
@@ -73,8 +73,11 @@ NOTE: Die Zuordnung von Rufnummern zu den virtuellen Tasten muss durch den Syste
 ////
 
 === Wahl aus dem Telefonbuch
-Drücken Sie die Taste image:images/8xx_key_directory.png[] mit der Beschriftung "Directory". Wählen Sie mit den Tasten runter image:images/8xx_key_down.png[] und hoch image:images/8xx_key_up.png[] einen Namen mit Rufnummer aus.
-// Wie springen per Buchstabe?
+Drücken Sie die Taste image:images/8xx_key_directory.png[] mit der Beschriftung "Directory". Durch drücken einer der Tasten 2 bis 9 können Sie die angezeigten Namen auf die Einträge eingrenzen, welche mit dem selben Buchstaben beginnen. Dies ist besonders hilfreich wenn in dem Telefonbuch viele Namen mit Nummer gespeichert sind.
+
+Beispiel: Auf der Taste 3 sind die Buchstaben D, E und F abgebildet. Nach dem Drücken der Taste 3 werden nur noch die Einträge angezeigt dessen Nachname mit einem dieser Buchstaben beginnt.
+
+Wählen Sie mit den Tasten runter image:images/8xx_key_down.png[] und hoch image:images/8xx_key_up.png[] einen Namen mit Rufnummer aus.
 
 Um die ausgewählte Rufnummern anzurufen heben Sie den Hörer ab. Alternativ starten Sie das Gespräch durch Drücken der Lautsprecher-Taste image:images/8xx_key_speaker.png[] im Freisprech-Modus.
 
