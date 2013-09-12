@@ -2,7 +2,7 @@
 
 == Das Snom 821
 // Bild aus UM_snom820_v104_de.pdf Seite 11
-image:images/snom821.jpg[]
+image:images/snom821.png[]
 
 A. Funktionstasten
 B. Funktionstasten
