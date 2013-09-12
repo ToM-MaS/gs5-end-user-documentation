@@ -1,8 +1,12 @@
 // http://powerman.name/doc/asciidoc-compact
 
 == Das Snom 821
+<<<<<<< HEAD
+image:images/snom821.jpg[]
+=======
 // Bild aus UM_snom820_v104_de.pdf Seite 11
 image:images/snom821.png[]
+>>>>>>> 8106f00052cbfb15dcc1dbebfdaddf0825043642
 
 A. Funktionstasten
 B. Funktionstasten

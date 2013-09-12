@@ -5,6 +5,7 @@ Gemeinschaft 5 Benutzerhandbuch
 :lang: de
 
 include::overview.txt[]
+include::login-logout.txt[]
 include::outgoing.txt[]
 include::incoming.txt[]
 include::during.txt[]

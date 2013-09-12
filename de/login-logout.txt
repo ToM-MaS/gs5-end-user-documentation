@@ -1,4 +1,4 @@
-== Login und Logout (nur bei flexiblen Arbeisplätzen)
+﻿== Login und Logout (nur bei flexiblen Arbeisplätzen)
 Wenn Sie in einem Untenehmen oder einer Abteilungen arbeiten bei der Sie sich zu Arbeitsbeginn einen Arbeitsplatz aussuchen, loggen Sie sich bitte am Telefon ein. Bei Arbeitsschluss loggen Sie sich bitte aus.
 
 === Login
@@ -19,5 +19,8 @@ image:images/mona-mobil.png[]
 
 === Logout
 Drücken Sie die Taste image:images/8xx_key_menu.png[] mit der Beschriftung "Menu" und drücken Sie die Taste image:images/8xx_key_5.png[].
+image:images/menu-logout.png[]
+Das Telefon startet neu. Nach dem neustarten ist der Bildschirm entweder ohne Name.
+image:images/no-user.png[]
 
 NOTE: Die Option "Log Out" wird nicht angezeigt wenn von Ihrem Administrator ein Mitarbeiter fest zu dem Telefon zugeordnet wurde. Dennoch ist es möglich dass sich ein anderer Mitarbeiter einloggt, der fest zugeordnete Mitarbeiter wird ausgeloggt. Nach dem er sich der Mitarbeiter wieder ausgeloggt hat, ist das Telefon wieder dem ursprünglichen Mitarbeiter zugeordnet.
